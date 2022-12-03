@@ -34,25 +34,30 @@ run as administrator
 برای رفع خطای 
 xampp-control.ini access denied
 تنها کافیست به محل نصب برنامه زمپ بروید
+
 2-
 در پوشه ای که زمپ در آن نصب شده به دنبال فایلی تحت عنوان 
 xampp-control.ini
 بگردید
+
 3-
 روی فایل 
 xampp-control.ini
 راست کلیک و گزینه 
 Properties
 را انتخاب کنید
-3-
+
+4-
 در پنجزه باز شده به سربرگ 
 Compatibility
 مراجعه کنید
-4-
+
+5-
 گزینه 
 Run this program as an administrator
 را فعال کنید
-5-
+
+6-
 روی دکمه 
 ok 
 کلیک کنید.
